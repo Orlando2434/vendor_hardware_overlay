@@ -8,7 +8,7 @@
 	-->
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.vendor.product.name"
-                android:requiredSystemPropertyValue="deen_reteu"
+                android:requiredSystemPropertyValue="deen*"
 		android:priority="63"
 		android:isStatic="true" />
 </manifest>
